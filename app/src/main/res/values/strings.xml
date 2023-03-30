@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M6_hw2_sheep</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="photo_place">photo_place</string>
+    <string name="image" />
+    <string name="selected_bg" />
+    <string name="send_photo">send_photo</string>
+    <string name="selected_image">Select the Photo</string>
+    <string name="data_image">image</string>
+    <string name="send">send</string>
+</resources>
